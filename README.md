@@ -4,4 +4,4 @@
 
 * Podcast: [Lemi'nin Not Defteri](https://soundcloud.com/leminin-not-defteri)
 * Tedx Talk: [Bir Gecede Ünlü Eden Elma](https://www.youtube.com/watch?v=DClFjk_Uod8)
-* Videos of Talks: [Recordings of Lemi at Youtube](https://www.youtube.com/playlist?list=PLQTv1b9jwvWdvUVfv0M55mRbTB8CMYT9R)
+* Videos: [Recordings of Lemi at Youtube](https://www.youtube.com/playlist?list=PLQTv1b9jwvWdvUVfv0M55mRbTB8CMYT9R)
