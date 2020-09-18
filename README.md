@@ -6,7 +6,7 @@
 * Tedx Talk: [Bir Gecede Ünlü Eden Elma](https://www.youtube.com/watch?v=DClFjk_Uod8) [TR]
 * Slides: [Slides of All Talks](https://speakerdeck.com/lemiorhan) [EN]
 
-His appearances:
+**His appearances:**
 * Podcasts: 
   * QACast - [Agile Testing](https://soundcloud.com/qacast/s1e8-lemi-orhan-ergin) [TR]
   * Üretim Bandı - [İyzico nasıl ürün geliştiriyor?](https://open.spotify.com/episode/3Pb7IUoSRMTR32C5Hqk0BO) [TR]
