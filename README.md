@@ -4,5 +4,12 @@
 
 * Podcast: [Lemi'nin Not Defteri](https://soundcloud.com/leminin-not-defteri) [TR]
 * Tedx Talk: [Bir Gecede Ünlü Eden Elma](https://www.youtube.com/watch?v=DClFjk_Uod8) [TR]
-* Videos: [Recordings of Lemi at Youtube](https://www.youtube.com/playlist?list=PLQTv1b9jwvWdvUVfv0M55mRbTB8CMYT9R) [TR][EN]
 * Slides: [Slides of All Talks](https://speakerdeck.com/lemiorhan) [EN]
+
+His appearances:
+* Podcasts: 
+  * QACast - [Agile Testing](https://soundcloud.com/qacast/s1e8-lemi-orhan-ergin) [TR]
+  * Üretim Bandı - [İyzico nasıl ürün geliştiriyor?](https://open.spotify.com/episode/3Pb7IUoSRMTR32C5Hqk0BO) [TR]
+  * IT Serbia Podcast - [On fighting elephants in the room](https://podcasts.apple.com/us/podcast/on-fighting-elephants-in-the-room-with-lemi-orhan-ergin/id936476881?i=1000377992398) [EN]
+* Videos:
+  * Talks: [70+ Recordings of Lemi at Youtube](https://www.youtube.com/playlist?list=PLQTv1b9jwvWdvUVfv0M55mRbTB8CMYT9R) [TR][EN]
