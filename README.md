@@ -6,7 +6,7 @@
 * Written Content: [Medium](https://medium.com/@lemiorhan), [Personal Web Site](http://www.lemiorhanergin.com), [Infoq](https://www.infoq.com/profile/Lemi-Orhan-Ergin/#articles)
 * Podcast: [Lemi'nin Not Defteri](https://soundcloud.com/leminin-not-defteri) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
 * Tedx Talk: [Bir Gecede Ünlü Eden Elma](https://www.youtube.com/watch?v=DClFjk_Uod8) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
-* Slides: [Slides of All Talks](https://speakerdeck.com/lemiorhan) ![english](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/english.png)
+* Slides: [Slide Decks of All Lemi's Talks](https://speakerdeck.com/lemiorhan) ![english](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/english.png)
 
 **His other appearances:**
 * Podcasts: 
