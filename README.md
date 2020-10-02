@@ -2,16 +2,16 @@
 
 [Lemi Orhan Ergin](http://www.lemiorhanergin.com) is a software crafter based on Turkey with a passion for raising the bar of his profession and sharing his experiences with communities. He is the co-founder of [Craftbase](https://craftbase.io) and founder of [Turkish Software Craftsmanship Community](https://kommunity.com/software-craftsmanship-turkey). He previously worked at Sony, eBay/GittiGidiyor, ACM and iyzico at various technical leadership and coaching roles. He has been actively programming since 2001. He is a active practitioner and mentor in Scrum, extreme programming, engineering practices and hands-on programming.
 
-Giving back to the community is the way he lives. As of 2020, he has already spoke at 30+ conferences (like Devoxx Ukraine, Devoxx Poland, Agile ME, GrowIT Serbia, Bosnia Agile Day, and many others) including 3 keynote talks and 200+ seminars, organized 200+ meetups, created a podcast series and distributed his talks to feed his passion. His slides are viewed more than 2 million times.
+Giving back to the community is the way he lives. As of 2020, he has already spoke at 30+ conferences (like Devoxx Ukraine, Devoxx Poland, Agile ME, GrowIT Serbia, Bosnia Agile Day, and many others) including 3 keynote talks and 200+ seminars, organized 200+ meetups, created a podcast series and distributed his talks to feed his passion. His slides are viewed more than 2 million times. He had interesting days with the famous [Apple root bug](https://www.wired.com/story/macos-high-sierra-hack-root/) on 2017 and collected unforgettable memories.
 
 ## Personal Publications
 * Social Media: [Twitter](https://twitter.com/lemiorhan), [Instagram](https://www.instagram.com/lemiorhan), [Linkedin](https://www.linkedin.com/in/lemiorhan)
 * Written Content: [Medium](https://medium.com/@lemiorhan), [Personal Web Site](http://www.lemiorhanergin.com), [Infoq](https://www.infoq.com/profile/Lemi-Orhan-Ergin/#articles)
 * Podcast: [Lemi'nin Not Defteri](https://soundcloud.com/leminin-not-defteri) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
-* Tedx Talk: [Bir Gecede Ünlü Eden Elma](https://www.youtube.com/watch?v=DClFjk_Uod8) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
+* Tedx Talk: [Apple Root Bug: Mesleki Etik ve Disiplinin Anatomisi](https://www.youtube.com/watch?v=DClFjk_Uod8) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
 * Slides: [Slide Decks of All Lemi's Talks](https://speakerdeck.com/lemiorhan) ![english](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/english.png)
 
-## His other appearances
+## His Other Appearances
 
 #### Podcasts
 
