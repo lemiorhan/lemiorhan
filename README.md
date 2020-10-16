@@ -17,7 +17,6 @@ Giving back to the community is the way he lives. As of 2020, he has already spo
 
 * QACast - [Agile Testing](https://soundcloud.com/qacast/s1e8-lemi-orhan-ergin) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
 * Üretim Bandı - [İyzico nasıl ürün geliştiriyor? - 2017](https://open.spotify.com/episode/3Pb7IUoSRMTR32C5Hqk0BO) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
-* Üretim Bandı - [Craftbase nasıl yazılım geliştiriyor? - 2020](https://www.uretimbandi.com/craftbase-nasil-yazilim-gelistiriyor/) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
 * DevPod - [Röportaj: Lemi Orhan Ergin](https://devpod.org/2016/01/11/029/) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
 * IT Serbia Podcast - [On fighting elephants in the room](https://podcasts.apple.com/us/podcast/on-fighting-elephants-in-the-room-with-lemi-orhan-ergin/id936476881?i=1000377992398) ![english](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/english.png)
 * Üretim Bandı - [Teknik: Craftbase nasıl yazılım geliştiriyor? - 2020](https://open.spotify.com/episode/3x1FiEoaDg0VW59bPVGy2d) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
