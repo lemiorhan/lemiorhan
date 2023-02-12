@@ -7,11 +7,11 @@ The ramifications of these quakes will impact this region for months. Raising fu
 * **AHBAP**: Local voluntary network [Donate](https://ahbap.org/bagisci-ol)
 * **AKUT**: Voluntary, non-governmental organisation [Donate](https://www.akut.org.tr/en/donation)
  
-## Who I am
+## Who is Lemi?
 
-[Lemi Orhan Ergin](http://www.lemiorhanergin.com) is a software crafter based in Turkey with a passion for raising the bar of his profession and sharing his experiences with communities. He is the co-founder of [Craftgate](https://craftgate.io) and founder of [Turkish Software Craftsmanship Community](https://kommunity.com/software-craftsmanship-turkey). He previously worked at Sony, eBay/GittiGidiyor, ACM, and iyzico in various technical leadership and coaching roles. He has been actively programming since 2001. He is an active practitioner and mentor in Scrum, extreme programming, engineering practices, and hands-on programming.
+[Lemi Orhan Ergin](http://www.lemiorhanergin.com) is a software crafter based in Turkey with a passion for raising the bar of his profession and sharing his experiences with communities. He is the co-founder of [Craftgate](https://craftgate.io) and founder of [Turkish Software Craftsmanship Community](https://kommunity.com/software-craftsmanship-turkey). He previously worked at Sony, eBay/GittiGidiyor, ACM, and iyzico in various technical leadership and coaching roles. He has been actively programming since 2001. 
 
-Giving back to the community is the way he lives. As of 2020, he has already spoken at 30+ conferences (like Devoxx Ukraine, Devoxx Poland, Agile ME, GrowIT Serbia, Bosnia Agile Day, and many others) including 3 keynote talks and 200+ seminars, organized 200+ meetups, created a podcast series, and distributed his talks to feed his passion. His slides are viewed more than 2 million times. He had interesting days with the famous [Apple root bug](https://www.wired.com/story/macos-high-sierra-hack-root/) in 2017 and collected unforgettable memories.
+Giving back to the community is the way he lives. As of 2023, he has already spoken at 30+ conferences (like Devoxx Ukraine, Devoxx Poland, Devoxx Belgium, Agile ME, GrowIT Serbia, Bosnia Agile Day, and many others) including 3 keynote talks and 200+ seminars, organized 200+ meetups, created a podcast series, and distributed his talks to feed his passion. He had interesting days with the famous [Apple root bug](https://www.wired.com/story/macos-high-sierra-hack-root/) in 2017 and collected unforgettable memories.
 
 ## Personal Publications
 * Social Media: [Twitter](https://twitter.com/lemiorhan), [Instagram](https://www.instagram.com/lemiorhan), [Linkedin](https://www.linkedin.com/in/lemiorhan)
