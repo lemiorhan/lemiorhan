@@ -1,6 +1,6 @@
 ## We Need Help!
 
-Turkey has been hit by two [devastating earthquakes](https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquake) reaching magnitudes of 7.7 and 7.4 in nine hours. The deadly impact has been widespread, including 10 cities in Turkey.
+Turkey has been hit by two [devastating earthquakes](https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquake) reaching magnitudes of 7.7 and 7.6 in nine hours. The deadly impact has been widespread, including 10 cities in Turkey.
 
 The ramifications of these quakes will impact this region for months. Raising funds are extremely important to meet survivors’ immediate needs for food, fuel, clean water, medicine and shelter. Here are some relief efforts that you could donate: 
 
