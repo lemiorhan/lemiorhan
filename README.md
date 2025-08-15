@@ -1,12 +1,3 @@
-## We Need Help!
-
-Turkey has been hit by two [devastating earthquakes](https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquake) reaching magnitudes of 7.7 and 7.6 in nine hours. The deadly impact has been widespread, including 10 cities in Turkey.
-
-The ramifications of these quakes will impact this region for months. Raising funds are extremely important to meet survivors’ immediate needs for food, fuel, clean water, medicine and shelter. Here are some relief efforts that you could donate: 
-
-* **AHBAP**: Local voluntary network [Donate](https://ahbap.org/bagisci-ol)
-* **AKUT**: Voluntary, non-governmental organisation [Donate](https://www.akut.org.tr/en/donation)
- 
 ## Who is Lemi?
 
 [Lemi Orhan Ergin](http://www.lemiorhanergin.com) is a software crafter based in Turkey with a passion for raising the bar of his profession and sharing his experiences with communities. He is the co-founder of [Craftgate](https://craftgate.io) and founder of [Turkish Software Craftsmanship Community](https://kommunity.com/software-craftsmanship-turkey). He previously worked at Sony, eBay/GittiGidiyor, ACM, and iyzico in various technical leadership and coaching roles. He has been actively programming since 2001. 
